@@ -38,7 +38,9 @@ button::-moz-focus-inner {
 a{
 	text-decoration: none;
 }
-
+.link_ex1{
+  color: red;
+}
 h1, h2, h3, h4, p, li, a {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
